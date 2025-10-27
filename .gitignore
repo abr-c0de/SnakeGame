@@ -1,0 +1,6 @@
+# This file specifies intentionally untracked files to be ignored by Git.
+# Lines starting with # are comments.
+# Add files or folders to ignore, such as:
+# my_secrets.json
+# /build
+# *.log
